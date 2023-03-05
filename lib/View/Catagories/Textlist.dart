@@ -1,0 +1,7 @@
+class Textlist{
+  List textlist=[
+    "",
+    "",
+    ""
+  ];
+}
